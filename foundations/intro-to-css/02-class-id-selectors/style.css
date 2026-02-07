@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.header_footer,
+.extra {
+    font-family: Verdanna, DejaVu, sans-serif;
+    background-color: rgb(232, 150, 144);
+}
+
+
+#big_blue{
+    color: rgb(0, 0, 256);
+    font-size: 36px;
+}
+
+.extra{
+    font-size: 24px;
+}
+
+#number_4{
+    background-color: rgb(116, 224, 110);
+    font-size: 24px;
+}
